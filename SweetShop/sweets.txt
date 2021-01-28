@@ -1,0 +1,13 @@
+1,Cola Bottles,0.56
+2,Fizzy Cola Bottles,0.62
+3,Blue Bottles,0.63
+4,Midget Gems,0.45
+5,Wine Gums,0.56
+6,Fox's Glacier Mints,0.87
+7,Sherbet Lemons,0.52
+8,Everton Mints,0.45
+9,Buttons,0.34
+10,Red Laces,0.58
+12,Green Laces,0.62
+13,Starmix,0.98
+14,Tangfastics,0.99
